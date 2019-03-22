@@ -9,5 +9,6 @@
 1. [Работа с HTTP](http/)
 1. [Анимации и CSS](animations/)
 1. [Geolocation, Notification, Media](media/)
+1. [RxJS](rxjs/)
 1. [EventSource, WebSockets](sse-ws/)
 1. [WebWorkers, ServiceWorkers](workers/)
