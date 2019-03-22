@@ -1,4 +1,4 @@
-### Задача 2.1 Перемещение элемента
+### Перемещение элемента
 
 #### Легенда
 
@@ -24,7 +24,7 @@ Copyright gfycat.com
 
 ---
 
-### Задача 2.2 Loading and Sorting, data-attributes
+### Loading and Sorting, data-attributes
 
 #### Легенда
 
@@ -114,7 +114,7 @@ Copyright gfycat.com
 
 ---
 
-### Задача 2.3 In-Memory Sorting
+### In-Memory Sorting
 
 #### Легенда
 
