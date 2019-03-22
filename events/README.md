@@ -1,5 +1,7 @@
 **Важно: в рамках данного занятия в качестве пакетного менеджера необходимо использовать yarn.**
 
+---
+
 ### Игра с гоблинами
 
 ![](https://thumbs.gfycat.com/GracefulMiniatureBustard-small.gif)
