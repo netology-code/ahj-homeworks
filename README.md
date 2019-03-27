@@ -12,3 +12,8 @@
 1. [RxJS](rxjs/)
 1. [EventSource, WebSockets](sse-ws/)
 1. [WebWorkers, ServiceWorkers](workers/)
+
+Полезные ссылки:
+* [требования к домашним работам](requirements.md)
+* [список рекомендуемого ПО](software.md)
+* [инструкция по работе в терминале](terminal.md)
