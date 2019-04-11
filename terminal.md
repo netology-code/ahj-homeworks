@@ -45,7 +45,7 @@
 
 Так, в VSCode, который мы будем использовать в рамках этого курса, сочетание клавиш ``Ctrl + ` `` (Windows/Linux) либо ``⌃ + ` `` (Mac) позволяют сразу открыть терминал в каталоге, где расположен текущий проект:
 
-![](https://i.imgur.com/gevt5xl.png)
+![](./pic/vscode.png)
 
 
 При этом Вы можете выбрать используемый терминал:
@@ -55,9 +55,9 @@ https://code.visualstudio.com/docs/editor/integrated-terminal#_configuration
 
 В Linux достаточно щёлкнуть правой кнопкой мыши на каталоге и выбрать пункт меню `Open in Terminal` или `Открыть в терминале`:
 
-![](https://i.imgur.com/qyNECrQ.png)
+![](./pic/linux.png)
 
-![](https://i.imgur.com/MUqKhrW.png)
+![](./pic/linux-2.png)
 
 
 ### Mac
@@ -66,26 +66,26 @@ https://code.visualstudio.com/docs/editor/integrated-terminal#_configuration
 
 Для этого небоходимо перейти в `Системные настройки`, затем пункт меню `Клавиатура`, в разделе `Службы` выбрать раздел `Файлы и папки` и поставить флажок напротив `Новый терминал по адресу папки`:
 
-![](https://i.imgur.com/2QRdFbP.png)
+![](./pic/mac.png)
 
-![](https://i.imgur.com/gCULdzn.png)
+![](./pic/mac-2.png)
 
 
 После чего при клике правой кнопкой мыши на каталоге появится необходимый пункт меню:
 
-![](https://i.imgur.com/ZNhkTxJ.png)
+![](./pic/mac-3.png)
 
 ### Windows (Git Bash)
 
 В Windows всё достаточно просто, кликаете правой кнопкой мыши на каталоге и выбираете `Git Bash Here`:
 
-![](https://i.imgur.com/8oqwkup.png)
+![](./pic/win.png)
 
 ### Windows (Cmd/PowerShell)
 
 Если нужно открыть Cmd/PowerShell, то при нажатой клавшие `Shift` кликаете правой кнопкой мыши на каталоге и выбираете `Оpen command window here` или `Open PowerShell window here` (в русскоязычной версии они должны называться `Открыть окно команд здесь` и `Открыть окно PowerShell здесь` соответственно):
 
-![](https://i.imgur.com/A3bflaL.png)
+![](./pic/win-2.png)
 
 
 ## Пути
