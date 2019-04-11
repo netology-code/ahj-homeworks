@@ -16,7 +16,7 @@
 
 Общий вид виджета должен выглядеть следующим образом:
 
-![](https://i.imgur.com/C2R5anM.png)
+![](./pic/validator.png)
 
 Скриншот взят с сайта http://www.validcreditcardnumber.com.
 
