@@ -139,7 +139,9 @@ ajax.getJSON(<url>);
 
 ---
 
-## Project Management Dashboard
+## Project Management Dashboard (задача со звёздочкой)
+
+Важно: эта задача не является обязательной
 
 ### Легенда
 

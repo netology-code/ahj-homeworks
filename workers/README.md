@@ -68,7 +68,9 @@ const hash = crypto.MD5(wordArray).toString(crypto.enc.Hex);
 
 ---
 
-### Buggy Service
+### Buggy Service (задача со звёздочкой)
+
+Важно: эта задача является необязательной для реализации
 
 #### Легенда
 

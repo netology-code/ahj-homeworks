@@ -38,7 +38,9 @@ Copyright gfycat.com
 
 ---
 
-### Loading and Sorting, data-attributes
+### Loading and Sorting, data-attributes (задача со звёздочкой)
+
+Важно: эта задача не является обязательной
 
 #### Легенда
 
