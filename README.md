@@ -7,10 +7,10 @@
 1. [Работа с HTML-формами](forms/)
 1. [Работа с файлами, DnD](dnd/)
 1. [Работа с HTTP](http/)
+1. [EventSource, WebSockets](sse-ws/)
 1. [Анимации и CSS](anim/)
 1. [Geolocation, Notification, Media](media/)
 1. [RxJS](rxjs/)
-1. [EventSource, WebSockets](sse-ws/)
 1. [WebWorkers, ServiceWorkers](workers/)
 
 Полезные ссылки:
