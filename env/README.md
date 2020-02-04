@@ -14,7 +14,7 @@
 
 Обратите внимание, что картинка, указанная в `index.html` должна попадать в итоговую сборку (без необходимости явного её импорта в `index.html`). Кроме того, иконка (`favicon.ico`) тоже должна быть в дистрибутиве.
 
-Исходники к задаче: https://github.com/netology-code/js-in-html-advanced-homeworks/tree/master/yarn-cd
+Исходники к задаче: https://github.com/netology-code/ahj-homeworks/tree/master/yarn-cd
 
 **Важно: данная задача не предполагает развёртывания в AppVeyor и GitHub Pages**
 
