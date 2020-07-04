@@ -37,14 +37,14 @@ TicketFull {
 ```
 
 Напишите сервер с использованием koa, который работает по следующей схеме:
-* GET    ?method=allTickets         - список тикетов
-* GET    ?method=ticketById&id=<id> - полное описание тикета (где `<id>` - идентификатор тикета)
-* POST   ?method=createTicket       - создание тикета (`<id>` генерируется на сервере, в теле формы `name`, `description`, `status`)
+* GET    ?method=allTickets           - список тикетов
+* GET    ?method=ticketById&id=`<id>` - полное описание тикета (где `<id>` - идентификатор тикета)
+* POST   ?method=createTicket         - создание тикета (`<id>` генерируется на сервере, в теле формы `name`, `description`, `status`)
 
 Соответственно:
-* GET    ?method=allTickets         - массив объектов типа `Ticket` (т.е. без `description`)
-* GET    ?method=ticketById&id=<id> - объект типа `TicketFull` (т.е. с `description`)
-* POST   ?method=createTicket       - в теле запроса форма с полями для объекта типа `Ticket` (с `id` = `null`)
+* GET    ?method=allTickets           - массив объектов типа `Ticket` (т.е. без `description`)
+* GET    ?method=ticketById&id=`<id>` - объект типа `TicketFull` (т.е. с `description`)
+* POST   ?method=createTicket         - в теле запроса форма с полями для объекта типа `Ticket` (с `id` = `null`)
 
 Сервер необходимо развернуть на Heroku. Авто-тесты писать не нужно.
 
@@ -141,7 +141,7 @@ P.S. Подгрузка подробного описания специальн
 <details>
 <summary>Подсказка</summary>
     
-Делайте удаление методом POST: /?method=removeImage&id=...
+Делайте удаление методом POST: /?method=removeImage&id=`<id>`
 </details>
 
 Напоминаем, как он должен выглядеть:
