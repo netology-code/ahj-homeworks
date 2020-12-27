@@ -57,7 +57,7 @@ TicketFull {
 const tickets = [];
 
 app.use(async ctx => {
-    const { method } = ctx.request.querystring;
+    const { method } = ctx.request.query; // важно: в лекции опечатка, должно быть query
 
     switch (method) {
         case 'allTickets':
