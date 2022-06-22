@@ -1,6 +1,6 @@
 # Домашние задания к курсу «Продвинутый JavaScript в браузере»
 
-Важно: [Примеры кода из лекций](https://github.com/netology-code/ahj-code)
+Важно: [Примеры кода для выполнения домашних заданий](https://github.com/netology-code/ahj-code)
 
 1. [x] [Рабочее окружение](env)
 1. [x] [DOM](dom)
