@@ -37,7 +37,7 @@ const wordArray = crypto.lib.WordArray.create(<array buffer here>);
 const hash = crypto.MD5(wordArray).toString(crypto.enc.Hex);
 ```
 
-`hash` - и есть полученная контрольная сумма, рассчитанная по алгоритму MD5. Вам нужно сделать поддержку не только MD5, а ещё и:
+`hash` и есть полученная контрольная сумма, рассчитанная по алгоритму MD5. Вам нужно сделать поддержку не только MD5, а ещё и:
 * crypto-js/sha1,
 * crypto-js/sha256,
 * crypto-js/sha512.
