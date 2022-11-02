@@ -111,7 +111,7 @@
 const instances = [];
 
 router.post('/instances', async (ctx) => {
-  // Каким-то образом должны сообщить клиенту о том, что получена команда Create command"
+  // Каким-то образом должны сообщить клиенту о том, что получена команда Create command
   const id = <generate id>;
   <write client notification code here>
 
