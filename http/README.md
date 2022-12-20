@@ -136,6 +136,7 @@ xhr.addEventListener('load', () => {
 
 <details>
 <summary>Заметка</summary>
+    
 Для получения данных с сервера вы можете использовать [XMLHttpRequest](https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest) или [fetch API](https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch). Мы рекомендуем в fetch, но выбор остаётся за вами.
 </details>
 
